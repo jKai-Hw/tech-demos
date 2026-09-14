@@ -1,5 +1,15 @@
 {
-  "proposed": [],
+  "proposed": [
+    {
+      "id": "openai-agents-api-2098563281015407050",
+      "title": "OpenAI Agents API",
+      "url": "https://x.com/masahirochaen/status/2098563281015407050",
+      "date": "2026-09-14",
+      "slug": "openai-agents-playground",
+      "source": "bookmark-vault",
+      "note": "kai-vault Knowledge/openai-agents-api.md"
+    }
+  ],
   "built": [],
   "skipped": []
 }
