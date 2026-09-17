@@ -8,6 +8,15 @@
       "slug": "agent-plugins-playground",
       "source": "bookmark-vault",
       "note": "kai-vault Knowledge/harness-isolation-and-agent-plugins.md; portable Skills+MCP package standard (Amazon/Cursor/Microsoft/OpenAI/Vercel TSC); related seminar https://x.com/neruneruo/status/2099524603253235730"
+    },
+    {
+      "id": "chatgpt-skills-mcp-workers-2099652139492786412",
+      "title": "ChatGPT private Skills via GitHub + Cloudflare Workers MCP",
+      "url": "https://x.com/tetumemo/status/2099652139492786412",
+      "date": "2026-09-17",
+      "slug": "workers-skills-mcp",
+      "source": "bookmark-vault",
+      "note": "kai-vault Knowledge/chatgpt-private-skills-mcp-workers.md; private GitHub Skills served through Workers MCP gateway for ChatGPT Plus; Bun MVP under apps/workers-skills-mcp/"
     }
   ],
   "built": [],
