@@ -1,15 +1,6 @@
 {
   "proposed": [
     {
-      "id": "agent-plugins-2096136122992927232",
-      "title": "Agent Plugins (agent-plugins.org)",
-      "url": "https://x.com/kinopee_ai/status/2096136122992927232",
-      "date": "2026-09-16",
-      "slug": "agent-plugins-playground",
-      "source": "bookmark-vault",
-      "note": "kai-vault Knowledge/harness-isolation-and-agent-plugins.md; portable Skills+MCP package standard (Amazon/Cursor/Microsoft/OpenAI/Vercel TSC); related seminar https://x.com/neruneruo/status/2099524603253235730"
-    },
-    {
       "id": "chatgpt-skills-mcp-workers-2099652139492786412",
       "title": "ChatGPT private Skills via GitHub + Cloudflare Workers MCP",
       "url": "https://x.com/tetumemo/status/2099652139492786412",
@@ -38,6 +29,15 @@
       "slug": "design-md-playground",
       "source": "browser-bookmarks",
       "note": "Also in kai-vault Knowledge/design-md-brand-systems.md; ~106k views / 1.8k likes / 3.2k bookmarks"
+    },
+    {
+      "id": "agent-plugins-2096136122992927232",
+      "title": "Agent Plugins (agent-plugins.org)",
+      "url": "https://x.com/kinopee_ai/status/2096136122992927232",
+      "date": "2026-09-16",
+      "slug": "agent-plugins-playground",
+      "source": "bookmark-vault",
+      "note": "kai-vault Knowledge/harness-isolation-and-agent-plugins.md; portable Skills+MCP package standard (Amazon/Cursor/Microsoft/OpenAI/Vercel TSC); related seminar https://x.com/neruneruo/status/2099524603253235730"
     }
   ]
 }
