@@ -1,15 +1,5 @@
 {
-  "proposed": [
-    {
-      "id": "tradingview-mcp-beta-2100177360205258848",
-      "title": "TradingView official MCP Server (public beta)",
-      "url": "https://x.com/masahirochaen/status/2100177360205258848",
-      "date": "2026-09-18",
-      "slug": "tradingview-mcp-playground",
-      "source": "bookmark-vault",
-      "note": "kai-vault Knowledge/tradingview-mcp-beta.md; official https://mcp.tradingview.com/mcp for quotes/screener/fundamentals; Bun MVP under apps/tradingview-mcp-playground/"
-    }
-  ],
+  "proposed": [],
   "built": [],
   "skipped": [
     {
@@ -47,6 +37,15 @@
       "slug": "workers-skills-mcp",
       "source": "bookmark-vault",
       "note": "kai-vault Knowledge/chatgpt-private-skills-mcp-workers.md; private GitHub Skills served through Workers MCP gateway for ChatGPT Plus; Bun MVP under apps/workers-skills-mcp/"
+    },
+    {
+      "id": "tradingview-mcp-beta-2100177360205258848",
+      "title": "TradingView official MCP Server (public beta)",
+      "url": "https://x.com/masahirochaen/status/2100177360205258848",
+      "date": "2026-09-18",
+      "slug": "tradingview-mcp-playground",
+      "source": "bookmark-vault",
+      "note": "kai-vault Knowledge/tradingview-mcp-beta.md; official https://mcp.tradingview.com/mcp for quotes/screener/fundamentals; Bun MVP under apps/tradingview-mcp-playground/"
     }
   ]
 }
