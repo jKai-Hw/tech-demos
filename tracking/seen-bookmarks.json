@@ -1,6 +1,15 @@
 {
   "proposed": [
     {
+      "id": "tradingview-mcp-beta-2100177360205258848",
+      "title": "TradingView official MCP Server (public beta)",
+      "url": "https://x.com/masahirochaen/status/2100177360205258848",
+      "date": "2026-09-18",
+      "slug": "tradingview-mcp-playground",
+      "source": "bookmark-vault",
+      "note": "kai-vault Knowledge/tradingview-mcp-beta.md; official https://mcp.tradingview.com/mcp for quotes/screener/fundamentals; Bun MVP under apps/tradingview-mcp-playground/"
+    },
+    {
       "id": "chatgpt-skills-mcp-workers-2099652139492786412",
       "title": "ChatGPT private Skills via GitHub + Cloudflare Workers MCP",
       "url": "https://x.com/tetumemo/status/2099652139492786412",
