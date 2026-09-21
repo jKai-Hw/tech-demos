@@ -1,5 +1,15 @@
 {
-  "proposed": [],
+  "proposed": [
+    {
+      "id": "archify-2101601258293649483",
+      "title": "Archify (tt-a1i/archify) — agent skill for verified interactive architecture HTML",
+      "url": "https://x.com/ClaudeCode_love/status/2101601258293649483",
+      "date": "2026-09-21",
+      "slug": "archify-playground",
+      "source": "bookmark-vault",
+      "note": "kai-vault Knowledge/claude-code-agents-md-and-archify.md; free skill → self-contained interactive HTML (architecture/workflow/sequence/dataflow/lifecycle); Bun MVP under apps/archify-playground/"
+    }
+  ],
   "built": [],
   "skipped": [
     {
