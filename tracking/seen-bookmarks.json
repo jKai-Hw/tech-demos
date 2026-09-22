@@ -8,15 +8,6 @@
       "slug": "jev-router-playground",
       "source": "bookmark-vault",
       "note": "kai-vault Knowledge/jev-grok-bot-and-tooling.md (+ typesafe-jev-decision-model.md); TypeSafe System One (Choice/Score/Noul) for fast/balanced/deep routing; Bun MVP under apps/jev-router-playground/; docs https://docs.typesafe.ai/"
-    },
-    {
-      "id": "archify-2101601258293649483",
-      "title": "Archify (tt-a1i/archify) — agent skill for verified interactive architecture HTML",
-      "url": "https://x.com/ClaudeCode_love/status/2101601258293649483",
-      "date": "2026-09-21",
-      "slug": "archify-playground",
-      "source": "bookmark-vault",
-      "note": "kai-vault Knowledge/claude-code-agents-md-and-archify.md; free skill → self-contained interactive HTML (architecture/workflow/sequence/dataflow/lifecycle); Bun MVP under apps/archify-playground/"
     }
   ],
   "built": [],
@@ -65,6 +56,15 @@
       "slug": "tradingview-mcp-playground",
       "source": "bookmark-vault",
       "note": "kai-vault Knowledge/tradingview-mcp-beta.md; official https://mcp.tradingview.com/mcp for quotes/screener/fundamentals; Bun MVP under apps/tradingview-mcp-playground/"
+    },
+    {
+      "id": "archify-2101601258293649483",
+      "title": "Archify (tt-a1i/archify) — agent skill for verified interactive architecture HTML",
+      "url": "https://x.com/ClaudeCode_love/status/2101601258293649483",
+      "date": "2026-09-21",
+      "slug": "archify-playground",
+      "source": "bookmark-vault",
+      "note": "kai-vault Knowledge/claude-code-agents-md-and-archify.md; free skill → self-contained interactive HTML (architecture/workflow/sequence/dataflow/lifecycle); Bun MVP under apps/archify-playground/"
     }
   ]
 }
