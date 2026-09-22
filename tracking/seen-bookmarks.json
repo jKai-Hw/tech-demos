@@ -1,6 +1,15 @@
 {
   "proposed": [
     {
+      "id": "typesafe-jev-router-2101593485161963561",
+      "title": "TypeSafe Jev + jev-model-router — structured decision / model routing playground",
+      "url": "https://x.com/masahirochaen/status/2101593485161963561",
+      "date": "2026-09-22",
+      "slug": "jev-router-playground",
+      "source": "bookmark-vault",
+      "note": "kai-vault Knowledge/jev-grok-bot-and-tooling.md (+ typesafe-jev-decision-model.md); TypeSafe System One (Choice/Score/Noul) for fast/balanced/deep routing; Bun MVP under apps/jev-router-playground/; docs https://docs.typesafe.ai/"
+    },
+    {
       "id": "archify-2101601258293649483",
       "title": "Archify (tt-a1i/archify) — agent skill for verified interactive architecture HTML",
       "url": "https://x.com/ClaudeCode_love/status/2101601258293649483",
