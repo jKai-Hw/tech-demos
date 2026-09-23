@@ -1,24 +1,5 @@
 {
-  "proposed": [
-    {
-      "id": "typesafe-jev-router-2101593485161963561",
-      "title": "TypeSafe Jev + jev-model-router — structured decision / model routing playground",
-      "url": "https://x.com/masahirochaen/status/2101593485161963561",
-      "date": "2026-09-22",
-      "slug": "jev-router-playground",
-      "source": "bookmark-vault",
-      "note": "kai-vault Knowledge/jev-grok-bot-and-tooling.md (+ typesafe-jev-decision-model.md); TypeSafe System One (Choice/Score/Noul) for fast/balanced/deep routing; Bun MVP under apps/jev-router-playground/; docs https://docs.typesafe.ai/"
-    },
-    {
-      "id": "stagehand-v4-2102286564521111687",
-      "title": "Stagehand v4 — AI browser automation SDK (Browserbase)",
-      "url": "https://x.com/Dontgiveup_26/status/2102286564521111687",
-      "date": "2026-09-23",
-      "slug": "stagehand-v4-playground",
-      "source": "bookmark-vault",
-      "note": "kai-vault Knowledge/stagehand-v4-browser-automation.md (+ computer-use-jev-codex-browser.md); Playwright移行話題・act/extract/observe・CDP直結でPlaywright依存なし; Bun MVP under apps/stagehand-v4-playground/; docs https://docs.stagehand.dev/v4/first-steps/introduction"
-    }
-  ],
+  "proposed": [],
   "built": [],
   "skipped": [
     {
@@ -74,6 +55,24 @@
       "slug": "archify-playground",
       "source": "bookmark-vault",
       "note": "kai-vault Knowledge/claude-code-agents-md-and-archify.md; free skill → self-contained interactive HTML (architecture/workflow/sequence/dataflow/lifecycle); Bun MVP under apps/archify-playground/"
+    },
+    {
+      "id": "typesafe-jev-router-2101593485161963561",
+      "title": "TypeSafe Jev + jev-model-router — structured decision / model routing playground",
+      "url": "https://x.com/masahirochaen/status/2101593485161963561",
+      "date": "2026-09-22",
+      "slug": "jev-router-playground",
+      "source": "bookmark-vault",
+      "note": "kai-vault Knowledge/jev-grok-bot-and-tooling.md (+ typesafe-jev-decision-model.md); TypeSafe System One (Choice/Score/Noul) for fast/balanced/deep routing; Bun MVP under apps/jev-router-playground/; docs https://docs.typesafe.ai/"
+    },
+    {
+      "id": "stagehand-v4-2102286564521111687",
+      "title": "Stagehand v4 — AI browser automation SDK (Browserbase)",
+      "url": "https://x.com/Dontgiveup_26/status/2102286564521111687",
+      "date": "2026-09-23",
+      "slug": "stagehand-v4-playground",
+      "source": "bookmark-vault",
+      "note": "kai-vault Knowledge/stagehand-v4-browser-automation.md (+ computer-use-jev-codex-browser.md); Playwright移行話題・act/extract/observe・CDP直結でPlaywright依存なし; Bun MVP under apps/stagehand-v4-playground/; docs https://docs.stagehand.dev/v4/first-steps/introduction"
     }
   ]
 }
