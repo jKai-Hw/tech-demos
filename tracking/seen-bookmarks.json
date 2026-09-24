@@ -1,15 +1,6 @@
 {
   "proposed": [
     {
-      "id": "stagehand-v4-2102286564521111687",
-      "title": "Stagehand v4 — AI browser automation SDK (Browserbase)",
-      "url": "https://x.com/Dontgiveup_26/status/2102286564521111687",
-      "date": "2026-09-23",
-      "slug": "stagehand-v4-playground",
-      "source": "bookmark-vault",
-      "note": "kai-vault Knowledge/stagehand-v4-browser-automation.md (+ computer-use-jev-codex-browser.md); Playwright移行話題・act/extract/observe・CDP直結でPlaywright依存なし; Bun MVP under apps/stagehand-v4-playground/; docs https://docs.stagehand.dev/v4/first-steps/introduction"
-    },
-    {
       "id": "taste-skill-2101974215520121092",
       "title": "Taste Skill (Leonxlnx/taste-skill) — anti-slop Agent Skills for premium frontends",
       "url": "https://x.com/ClaudeCode_love/status/2101974215520121092",
@@ -83,6 +74,15 @@
       "slug": "jev-router-playground",
       "source": "bookmark-vault",
       "note": "kai-vault Knowledge/jev-grok-bot-and-tooling.md (+ typesafe-jev-decision-model.md); TypeSafe System One (Choice/Score/Noul) for fast/balanced/deep routing; Bun MVP under apps/jev-router-playground/; docs https://docs.typesafe.ai/"
+    },
+    {
+      "id": "stagehand-v4-2102286564521111687",
+      "title": "Stagehand v4 — AI browser automation SDK (Browserbase)",
+      "url": "https://x.com/Dontgiveup_26/status/2102286564521111687",
+      "date": "2026-09-23",
+      "slug": "stagehand-v4-playground",
+      "source": "bookmark-vault",
+      "note": "kai-vault Knowledge/stagehand-v4-browser-automation.md (+ computer-use-jev-codex-browser.md); Playwright移行話題・act/extract/observe・CDP直結でPlaywright依存なし; Bun MVP under apps/stagehand-v4-playground/; docs https://docs.stagehand.dev/v4/first-steps/introduction"
     }
   ]
 }
