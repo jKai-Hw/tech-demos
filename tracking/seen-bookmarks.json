@@ -8,6 +8,15 @@
       "slug": "stagehand-v4-playground",
       "source": "bookmark-vault",
       "note": "kai-vault Knowledge/stagehand-v4-browser-automation.md (+ computer-use-jev-codex-browser.md); Playwright移行話題・act/extract/observe・CDP直結でPlaywright依存なし; Bun MVP under apps/stagehand-v4-playground/; docs https://docs.stagehand.dev/v4/first-steps/introduction"
+    },
+    {
+      "id": "taste-skill-2101974215520121092",
+      "title": "Taste Skill (Leonxlnx/taste-skill) — anti-slop Agent Skills for premium frontends",
+      "url": "https://x.com/ClaudeCode_love/status/2101974215520121092",
+      "date": "2026-09-24",
+      "slug": "taste-skill-playground",
+      "source": "bookmark-vault",
+      "note": "kai-vault Knowledge/claude-code-taste-skill.md; npx skills add https://github.com/Leonxlnx/taste-skill; design-taste-frontend v2 (VARIANCE/MOTION/DENSITY); ~89k GitHub stars; Design-themed; Bun MVP under apps/taste-skill-playground/; site https://www.tasteskill.dev/"
     }
   ],
   "built": [],
