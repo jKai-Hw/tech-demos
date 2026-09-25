@@ -1,6 +1,15 @@
 {
   "proposed": [
     {
+      "id": "claude-agent-sdk-lean-2102543349102338309",
+      "title": "Claude Agent SDK (@anthropic-ai/claude-agent-sdk) — programmatic Claude Code agents + verification-ledger MVP",
+      "url": "https://x.com/bcherny/status/2102543349102338309",
+      "date": "2026-09-25",
+      "slug": "claude-agent-sdk-playground",
+      "source": "bookmark-vault",
+      "note": "kai-vault Knowledge/claude-agent-sdk-lean-formal-verify.md; @bcherny Opus 5.5×Lean formal verify of Agent SDK (16 PRs); npm @anthropic-ai/claude-agent-sdk; Bun MVP under apps/claude-agent-sdk-playground/ with stream UI + verification ledger panel (Lean out of MVP scope); docs https://code.claude.com/docs/en/agent-sdk"
+    },
+    {
       "id": "taste-skill-2101974215520121092",
       "title": "Taste Skill (Leonxlnx/taste-skill) — anti-slop Agent Skills for premium frontends",
       "url": "https://x.com/ClaudeCode_love/status/2101974215520121092",
