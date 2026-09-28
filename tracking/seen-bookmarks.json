@@ -8,15 +8,6 @@
       "slug": "jina-reader-playground",
       "source": "browser-bookmarks",
       "note": "Vault had no fresh demable intake after 2026-09-25; browser dump hit stop id 2102543349102338309. Prepend r.jina.ai/ to any URL for Markdown. Bun MVP under apps/jina-reader-playground/: paste URL → fetch via r.jina.ai → split preview (Markdown + rendered). Docs https://jina.ai/reader"
-    },
-    {
-      "id": "claude-agent-sdk-lean-2102543349102338309",
-      "title": "Claude Agent SDK (@anthropic-ai/claude-agent-sdk) — programmatic Claude Code agents + verification-ledger MVP",
-      "url": "https://x.com/bcherny/status/2102543349102338309",
-      "date": "2026-09-25",
-      "slug": "claude-agent-sdk-playground",
-      "source": "bookmark-vault",
-      "note": "kai-vault Knowledge/claude-agent-sdk-lean-formal-verify.md; @bcherny Opus 5.5×Lean formal verify of Agent SDK (16 PRs); npm @anthropic-ai/claude-agent-sdk; Bun MVP under apps/claude-agent-sdk-playground/ with stream UI + verification ledger panel (Lean out of MVP scope); docs https://code.claude.com/docs/en/agent-sdk"
     }
   ],
   "built": [],
@@ -101,6 +92,15 @@
       "slug": "taste-skill-playground",
       "source": "bookmark-vault",
       "note": "kai-vault Knowledge/claude-code-taste-skill.md; npx skills add https://github.com/Leonxlnx/taste-skill; design-taste-frontend v2 (VARIANCE/MOTION/DENSITY); ~89k GitHub stars; Design-themed; Bun MVP under apps/taste-skill-playground/; site https://www.tasteskill.dev/"
+    },
+    {
+      "id": "claude-agent-sdk-lean-2102543349102338309",
+      "title": "Claude Agent SDK (@anthropic-ai/claude-agent-sdk) — programmatic Claude Code agents + verification-ledger MVP",
+      "url": "https://x.com/bcherny/status/2102543349102338309",
+      "date": "2026-09-25",
+      "slug": "claude-agent-sdk-playground",
+      "source": "bookmark-vault",
+      "note": "kai-vault Knowledge/claude-agent-sdk-lean-formal-verify.md; @bcherny Opus 5.5×Lean formal verify of Agent SDK (16 PRs); npm @anthropic-ai/claude-agent-sdk; Bun MVP under apps/claude-agent-sdk-playground/ with stream UI + verification ledger panel (Lean out of MVP scope); docs https://code.claude.com/docs/en/agent-sdk"
     }
   ]
 }
