@@ -1,6 +1,15 @@
 {
   "proposed": [
     {
+      "id": "jina-reader-r-jina-ai-2104240953750086021",
+      "title": "Jina Reader (r.jina.ai) — URL→Markdown fetch proxy for AI/web scraping",
+      "url": "https://x.com/AM09_21/status/2104240953750086021",
+      "date": "2026-09-28",
+      "slug": "jina-reader-playground",
+      "source": "browser-bookmarks",
+      "note": "Vault had no fresh demable intake after 2026-09-25; browser dump hit stop id 2102543349102338309. Prepend r.jina.ai/ to any URL for Markdown. Bun MVP under apps/jina-reader-playground/: paste URL → fetch via r.jina.ai → split preview (Markdown + rendered). Docs https://jina.ai/reader"
+    },
+    {
       "id": "claude-agent-sdk-lean-2102543349102338309",
       "title": "Claude Agent SDK (@anthropic-ai/claude-agent-sdk) — programmatic Claude Code agents + verification-ledger MVP",
       "url": "https://x.com/bcherny/status/2102543349102338309",
