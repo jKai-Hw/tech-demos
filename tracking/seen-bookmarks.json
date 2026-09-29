@@ -8,15 +8,6 @@
       "slug": "hyperframes-playground",
       "source": "bookmark-vault",
       "note": "kai-vault Knowledge/opus-video-production-stack.md; HeyGen open-source HTML/CSS/GSAP→MP4 renderer (~54k★, Apache-2.0); agent skills via npx skills add heygen-com/hyperframes; Bun MVP under apps/hyperframes-playground/: paste brief → sample HTML composition preview + optional local render; docs https://hyperframes.heygen.com/introduction ; repo https://github.com/heygen-com/hyperframes"
-    },
-    {
-      "id": "jina-reader-r-jina-ai-2104240953750086021",
-      "title": "Jina Reader (r.jina.ai) — URL→Markdown fetch proxy for AI/web scraping",
-      "url": "https://x.com/AM09_21/status/2104240953750086021",
-      "date": "2026-09-28",
-      "slug": "jina-reader-playground",
-      "source": "browser-bookmarks",
-      "note": "Vault had no fresh demable intake after 2026-09-25; browser dump hit stop id 2102543349102338309. Prepend r.jina.ai/ to any URL for Markdown. Bun MVP under apps/jina-reader-playground/: paste URL → fetch via r.jina.ai → split preview (Markdown + rendered). Docs https://jina.ai/reader"
     }
   ],
   "built": [],
@@ -110,6 +101,15 @@
       "slug": "claude-agent-sdk-playground",
       "source": "bookmark-vault",
       "note": "kai-vault Knowledge/claude-agent-sdk-lean-formal-verify.md; @bcherny Opus 5.5×Lean formal verify of Agent SDK (16 PRs); npm @anthropic-ai/claude-agent-sdk; Bun MVP under apps/claude-agent-sdk-playground/ with stream UI + verification ledger panel (Lean out of MVP scope); docs https://code.claude.com/docs/en/agent-sdk"
+    },
+    {
+      "id": "jina-reader-r-jina-ai-2104240953750086021",
+      "title": "Jina Reader (r.jina.ai) — URL→Markdown fetch proxy for AI/web scraping",
+      "url": "https://x.com/AM09_21/status/2104240953750086021",
+      "date": "2026-09-28",
+      "slug": "jina-reader-playground",
+      "source": "browser-bookmarks",
+      "note": "Vault had no fresh demable intake after 2026-09-25; browser dump hit stop id 2102543349102338309. Prepend r.jina.ai/ to any URL for Markdown. Bun MVP under apps/jina-reader-playground/: paste URL → fetch via r.jina.ai → split preview (Markdown + rendered). Docs https://jina.ai/reader"
     }
   ]
 }
