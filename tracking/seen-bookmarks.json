@@ -1,6 +1,15 @@
 {
   "proposed": [
     {
+      "id": "hyperframes-2103842697786364171",
+      "title": "HyperFrames (heygen-com/hyperframes) — HTML→deterministic MP4, built for agents",
+      "url": "https://x.com/tetumemo/status/2103842697786364171",
+      "date": "2026-09-29",
+      "slug": "hyperframes-playground",
+      "source": "bookmark-vault",
+      "note": "kai-vault Knowledge/opus-video-production-stack.md; HeyGen open-source HTML/CSS/GSAP→MP4 renderer (~54k★, Apache-2.0); agent skills via npx skills add heygen-com/hyperframes; Bun MVP under apps/hyperframes-playground/: paste brief → sample HTML composition preview + optional local render; docs https://hyperframes.heygen.com/introduction ; repo https://github.com/heygen-com/hyperframes"
+    },
+    {
       "id": "jina-reader-r-jina-ai-2104240953750086021",
       "title": "Jina Reader (r.jina.ai) — URL→Markdown fetch proxy for AI/web scraping",
       "url": "https://x.com/AM09_21/status/2104240953750086021",
