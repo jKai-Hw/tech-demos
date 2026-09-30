@@ -8,15 +8,6 @@
       "slug": "quiverai-telos-playground",
       "source": "browser-bookmarks",
       "note": "Fresh @OiLactee bookmark (browser CDP dump 2026-09-30); SVG比較で Arrow 2 Telos がダントツという観測。QuiverAI text-to-SVG / image-to-SVG API（model: arrow-2-telos）; Design-themed. Bun MVP under apps/quiverai-telos-playground/: paste prompt → generate SVG → inline preview + download. Docs https://docs.quiver.ai/developers/models/arrow-2-telos ; blog https://quiver.ai/blog/introducing-arrow-2-0"
-    },
-    {
-      "id": "hyperframes-2103842697786364171",
-      "title": "HyperFrames (heygen-com/hyperframes) — HTML→deterministic MP4, built for agents",
-      "url": "https://x.com/tetumemo/status/2103842697786364171",
-      "date": "2026-09-29",
-      "slug": "hyperframes-playground",
-      "source": "bookmark-vault",
-      "note": "kai-vault Knowledge/opus-video-production-stack.md; HeyGen open-source HTML/CSS/GSAP→MP4 renderer (~54k★, Apache-2.0); agent skills via npx skills add heygen-com/hyperframes; Bun MVP under apps/hyperframes-playground/: paste brief → sample HTML composition preview + optional local render; docs https://hyperframes.heygen.com/introduction ; repo https://github.com/heygen-com/hyperframes"
     }
   ],
   "built": [],
@@ -119,6 +110,15 @@
       "slug": "jina-reader-playground",
       "source": "browser-bookmarks",
       "note": "Vault had no fresh demable intake after 2026-09-25; browser dump hit stop id 2102543349102338309. Prepend r.jina.ai/ to any URL for Markdown. Bun MVP under apps/jina-reader-playground/: paste URL → fetch via r.jina.ai → split preview (Markdown + rendered). Docs https://jina.ai/reader"
+    },
+    {
+      "id": "hyperframes-2103842697786364171",
+      "title": "HyperFrames (heygen-com/hyperframes) — HTML→deterministic MP4, built for agents",
+      "url": "https://x.com/tetumemo/status/2103842697786364171",
+      "date": "2026-09-29",
+      "slug": "hyperframes-playground",
+      "source": "bookmark-vault",
+      "note": "kai-vault Knowledge/opus-video-production-stack.md; HeyGen open-source HTML/CSS/GSAP→MP4 renderer (~54k★, Apache-2.0); agent skills via npx skills add heygen-com/hyperframes; Bun MVP under apps/hyperframes-playground/: paste brief → sample HTML composition preview + optional local render; docs https://hyperframes.heygen.com/introduction ; repo https://github.com/heygen-com/hyperframes"
     }
   ]
 }
