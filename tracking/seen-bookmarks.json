@@ -8,15 +8,6 @@
       "slug": "cloudflare-cf-cli-playground",
       "source": "browser-bookmarks",
       "note": "Fresh @OiLactee bookmark (browser dump 2026-10-02; stop hit 2105230420941898138). Official beta https://developers.cloudflare.com/cf/ ; blog https://blog.cloudflare.com/cloudflare-cf-cli-launch/ ; npm install -g cf. Wrangler ~280 cmds → cf covers 2,900+ API ops; natural-language cf cli search for agents. Bun MVP under apps/cloudflare-cf-cli-playground/: paste a Cloudflare task in plain language → run cf cli search → show ranked commands + copyable invocation (auth-optional; search-first). Vault had no fresher demable after QuiverAI; other new bookmarks were resident-agent commentary, yomiyasu skill, Motion/Remotion video (near HyperFrames), unnamed web extract, Decisions API (known limited)."
-    },
-    {
-      "id": "quiverai-telos-2104781363102748686",
-      "title": "QuiverAI Arrow 2 Telos — high-fidelity text/image→SVG model",
-      "url": "https://x.com/akira_papa_IT/status/2104781363102748686",
-      "date": "2026-09-30",
-      "slug": "quiverai-telos-playground",
-      "source": "browser-bookmarks",
-      "note": "Fresh @OiLactee bookmark (browser CDP dump 2026-09-30); SVG比較で Arrow 2 Telos がダントツという観測。QuiverAI text-to-SVG / image-to-SVG API（model: arrow-2-telos）; Design-themed. Bun MVP under apps/quiverai-telos-playground/: paste prompt → generate SVG → inline preview + download. Docs https://docs.quiver.ai/developers/models/arrow-2-telos ; blog https://quiver.ai/blog/introducing-arrow-2-0"
     }
   ],
   "built": [],
@@ -128,6 +119,15 @@
       "slug": "hyperframes-playground",
       "source": "bookmark-vault",
       "note": "kai-vault Knowledge/opus-video-production-stack.md; HeyGen open-source HTML/CSS/GSAP→MP4 renderer (~54k★, Apache-2.0); agent skills via npx skills add heygen-com/hyperframes; Bun MVP under apps/hyperframes-playground/: paste brief → sample HTML composition preview + optional local render; docs https://hyperframes.heygen.com/introduction ; repo https://github.com/heygen-com/hyperframes"
+    },
+    {
+      "id": "quiverai-telos-2104781363102748686",
+      "title": "QuiverAI Arrow 2 Telos — high-fidelity text/image→SVG model",
+      "url": "https://x.com/akira_papa_IT/status/2104781363102748686",
+      "date": "2026-09-30",
+      "slug": "quiverai-telos-playground",
+      "source": "browser-bookmarks",
+      "note": "Fresh @OiLactee bookmark (browser CDP dump 2026-09-30); SVG比較で Arrow 2 Telos がダントツという観測。QuiverAI text-to-SVG / image-to-SVG API（model: arrow-2-telos）; Design-themed. Bun MVP under apps/quiverai-telos-playground/: paste prompt → generate SVG → inline preview + download. Docs https://docs.quiver.ai/developers/models/arrow-2-telos ; blog https://quiver.ai/blog/introducing-arrow-2-0"
     }
   ]
 }
