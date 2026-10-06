@@ -1,13 +1,13 @@
 {
   "proposed": [
     {
-      "id": "nvidia-openshell-2106549928797638807",
-      "title": "NVIDIA OpenShell — open-source secure runtime for AI agents (Open Agent Safety Platform)",
-      "url": "https://x.com/masahirochaen/status/2106549928797638807",
-      "date": "2026-10-05",
-      "slug": "openshell-policy-playground",
+      "id": "angelic-angel-2106656051655557125",
+      "title": "Angelic Angel (sh1ma/Angelic-Angel) — stream X tweets in real time via Mozilla Web Push (no API polling, no scraping)",
+      "url": "https://x.com/sh1ma/status/2106656051655557125",
+      "date": "2026-10-06",
+      "slug": "angelic-angel-feed-playground",
       "source": "browser-bookmarks",
-      "note": "Fresh @OiLactee bookmark (browser dump 2026-10-05, 40-card cap; stop id 2105600610171015388 not seen, matched older known ids). NVIDIA announced Open Agent Safety Platform 2026-09-28: OpenShell (Apache-2.0, ~8.3k stars, declarative YAML policies for files/network/credentials/tools, policy prover) + Sentry; partners IBM/Red Hat/Microsoft/Anthropic/HF. Jensen: strip all agent permissions first, grant as needed. Bun MVP under apps/openshell-policy-playground/: describe an agent task -> build/edit an OpenShell-style YAML policy -> simulate agent actions (file read/write, network, credential, tool) as allow/deny with reasons; no gateway/Docker needed. Repo https://github.com/NVIDIA/OpenShell ; docs https://docs.nvidia.com/openshell/latest/ . Other new bookmarks skipped: Tavus Griffin (research preview only, not on API), Synthesia Sessions (SaaS), claudemod qa-guide (Claude Code plugin), pstack /correct, Cloudflare AI-traffic stats, agent-ops commentary, Higgsfield influencer."
+      "note": "Fresh @OiLactee bookmark (browser dump 2026-10-06, 11 new, stopped at known id). Rust CLI (MIT, ~780 stars) emulating Firefox Web Push: registers with Mozilla AutoPush, decrypts ECE payloads, POSTs tweet notifications (from followed accounts with notifications on) to a webhook. X API only touched at register; needs auth_token/ct0 cookies (account/ToS risk, keep live mode opt-in). Bun MVP under apps/angelic-angel-feed-playground/: local webhook receiver + live feed UI (filter by author/keyword, tag AI topics, save to JSONL/Markdown), with a replay mode from sample payloads so it runs without credentials. Repo https://github.com/sh1ma/Angelic-Angel . Vault had no intake after 2026-10-05. Other new bookmarks skipped: Anthropic eval hillclimbing blog (method), trimmy Grok Bot (bot template), Hermes profiles/plugins/Alan's way (agent-platform commentary), reverse-prompting loop, cu30rry_ agent-ops commentary x4."
     }
   ],
   "built": [],
@@ -137,6 +137,15 @@
       "slug": "cloudflare-cf-cli-playground",
       "source": "browser-bookmarks",
       "note": "Fresh @OiLactee bookmark (browser dump 2026-10-02; stop hit 2105230420941898138). Official beta https://developers.cloudflare.com/cf/ ; blog https://blog.cloudflare.com/cloudflare-cf-cli-launch/ ; npm install -g cf. Wrangler ~280 cmds → cf covers 2,900+ API ops; natural-language cf cli search for agents. Bun MVP under apps/cloudflare-cf-cli-playground/: paste a Cloudflare task in plain language → run cf cli search → show ranked commands + copyable invocation (auth-optional; search-first). Vault had no fresher demable after QuiverAI; other new bookmarks were resident-agent commentary, yomiyasu skill, Motion/Remotion video (near HyperFrames), unnamed web extract, Decisions API (known limited). | Skipped 2026-10-05: no reply to approval prompt."
+    },
+    {
+      "id": "nvidia-openshell-2106549928797638807",
+      "title": "NVIDIA OpenShell — open-source secure runtime for AI agents (Open Agent Safety Platform)",
+      "url": "https://x.com/masahirochaen/status/2106549928797638807",
+      "date": "2026-10-05",
+      "slug": "openshell-policy-playground",
+      "source": "browser-bookmarks",
+      "note": "Fresh @OiLactee bookmark (browser dump 2026-10-05, 40-card cap; stop id 2105600610171015388 not seen, matched older known ids). NVIDIA announced Open Agent Safety Platform 2026-09-28: OpenShell (Apache-2.0, ~8.3k stars, declarative YAML policies for files/network/credentials/tools, policy prover) + Sentry; partners IBM/Red Hat/Microsoft/Anthropic/HF. Jensen: strip all agent permissions first, grant as needed. Bun MVP under apps/openshell-policy-playground/: describe an agent task -> build/edit an OpenShell-style YAML policy -> simulate agent actions (file read/write, network, credential, tool) as allow/deny with reasons; no gateway/Docker needed. Repo https://github.com/NVIDIA/OpenShell ; docs https://docs.nvidia.com/openshell/latest/ . Other new bookmarks skipped: Tavus Griffin (research preview only, not on API), Synthesia Sessions (SaaS), claudemod qa-guide (Claude Code plugin), pstack /correct, Cloudflare AI-traffic stats, agent-ops commentary, Higgsfield influencer. | Skipped 2026-10-06: no reply to approval prompt."
     }
   ]
 }
