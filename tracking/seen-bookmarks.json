@@ -1,15 +1,5 @@
 {
-  "proposed": [
-    {
-      "id": "cloudflare-clef-2107145311852356070",
-      "title": "Cloudflare Clef / Clef-Flash — open (Apache-2.0) decision models: state + typed-question schema -> per-option probabilities in one forward pass (Jev/SystemOne API)",
-      "url": "https://x.com/0xSero/status/2107145311852356070",
-      "date": "2026-10-07",
-      "slug": "clef-decision-playground",
-      "source": "browser-bookmarks",
-      "note": "Fresh @OiLactee bookmark (browser dump 2026-10-07, 15 new, stopped at known id 2107028267354173462). HF Cloudflare/clef (27B, Qwen3.8-27B backbone + joint schema head, ~1.7k likes in a week) and Cloudflare/clef-flash (9B, for 8-16GB; https://x.com/0xSero/status/2107146090793382096). Question types: choice / score / noul(bool); no free-form generation or parsing; text/JSON/image/video state; POST /v1/systemone-compatible. Blog https://blog.cloudflare.com/clef-decision-models ; leaderboard https://clef-evals.workers-ai-mle.workers.dev . Bun MVP under apps/clef-decision-playground/: schema builder UI + state input -> probability bars/confidence per question, presets (support triage, invoice check, X-bookmark tagging), pluggable SystemOne endpoint (self-hosted clef-flash) with deterministic mock mode so it runs with no GPU. Other new bookmarks skipped: ArtCraft Crafting Apps (desktop suite), Hermes Agent user stories / ODS (agent platform commentary), Claude Code cache-countdown statusline & HTML-plan skill & ずんだもん HTML video skill (skills/tweaks), FDE playbook, RGDD, security PSA, domain/DNS tips, lifestyle/art posts."
-    }
-  ],
+  "proposed": [],
   "built": [],
   "skipped": [
     {
@@ -155,6 +145,15 @@
       "slug": "angelic-angel-feed-playground",
       "source": "browser-bookmarks",
       "note": "Fresh @OiLactee bookmark (browser dump 2026-10-06, 11 new, stopped at known id). Rust CLI (MIT, ~780 stars) emulating Firefox Web Push: registers with Mozilla AutoPush, decrypts ECE payloads, POSTs tweet notifications (from followed accounts with notifications on) to a webhook. X API only touched at register; needs auth_token/ct0 cookies (account/ToS risk, keep live mode opt-in). Bun MVP under apps/angelic-angel-feed-playground/: local webhook receiver + live feed UI (filter by author/keyword, tag AI topics, save to JSONL/Markdown), with a replay mode from sample payloads so it runs without credentials. Repo https://github.com/sh1ma/Angelic-Angel . Vault had no intake after 2026-10-05. Other new bookmarks skipped: Anthropic eval hillclimbing blog (method), trimmy Grok Bot (bot template), Hermes profiles/plugins/Alan's way (agent-platform commentary), reverse-prompting loop, cu30rry_ agent-ops commentary x4. | Skipped 2026-10-07: no reply to approval prompt."
+    },
+    {
+      "id": "cloudflare-clef-2107145311852356070",
+      "title": "Cloudflare Clef / Clef-Flash — open (Apache-2.0) decision models: state + typed-question schema -> per-option probabilities in one forward pass (Jev/SystemOne API)",
+      "url": "https://x.com/0xSero/status/2107145311852356070",
+      "date": "2026-10-07",
+      "slug": "clef-decision-playground",
+      "source": "browser-bookmarks",
+      "note": "Fresh @OiLactee bookmark (browser dump 2026-10-07, 15 new, stopped at known id 2107028267354173462). HF Cloudflare/clef (27B, Qwen3.8-27B backbone + joint schema head, ~1.7k likes in a week) and Cloudflare/clef-flash (9B, for 8-16GB; https://x.com/0xSero/status/2107146090793382096). Question types: choice / score / noul(bool); no free-form generation or parsing; text/JSON/image/video state; POST /v1/systemone-compatible. Blog https://blog.cloudflare.com/clef-decision-models ; leaderboard https://clef-evals.workers-ai-mle.workers.dev . Bun MVP under apps/clef-decision-playground/: schema builder UI + state input -> probability bars/confidence per question, presets (support triage, invoice check, X-bookmark tagging), pluggable SystemOne endpoint (self-hosted clef-flash) with deterministic mock mode so it runs with no GPU. Other new bookmarks skipped: ArtCraft Crafting Apps (desktop suite), Hermes Agent user stories / ODS (agent platform commentary), Claude Code cache-countdown statusline & HTML-plan skill & ずんだもん HTML video skill (skills/tweaks), FDE playbook, RGDD, security PSA, domain/DNS tips, lifestyle/art posts."
     }
   ]
 }
